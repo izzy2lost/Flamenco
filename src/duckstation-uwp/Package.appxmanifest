@@ -10,7 +10,7 @@
     Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="57bcfd1f-31c1-4f8e-bf91-958732a81506" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
   <Properties>
-    <DisplayName>XBSX-Station</DisplayName>
+    <DisplayName>Flamenco</DisplayName>
     <PublisherDisplayName>DD</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
