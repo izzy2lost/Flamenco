@@ -67,8 +67,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scmversion", "src\scmversio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glslang", "dep\glslang\glslang.vcxproj", "{7F909E29-4808-4BD9-A60C-56C51A3AAEC2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vulkan-loader", "dep\vulkan-loader\vulkan-loader.vcxproj", "{9C8DDEB0-2B8F-4F5F-BA86-127CDF27F035}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vixl", "dep\vixl\vixl.vcxproj", "{8906836E-F06E-46E8-B11A-74E5E8C7B8FB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsamplerate", "dep\libsamplerate\libsamplerate.vcxproj", "{39F0ADFF-3A84-470D-9CF0-CA49E164F2F3}"
